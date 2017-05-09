@@ -1,0 +1,20 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.contenedor{
+  display: flex;
+  flex-wrap: wrap;
+}
+nav{
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+}
+li{
+  list-style: none;
+}
+.img{
+  width: 200px;
+}
